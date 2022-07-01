@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dogs</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app show you random images of dogs.\n\nYou can refresh every time by pressing refresh icon at top right corner of the toolbar.\n\nYou can save the images into the gallery\n\n\nSerial no: 35\nDate of creation: 5 May 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
